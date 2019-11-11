@@ -1,3 +1,3 @@
-# CS:GO & Tetris
+# CS:GO & Jstris
 
 Repository
