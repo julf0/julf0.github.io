@@ -1,3 +1,1 @@
-# CS:GO & Jstris
-
 Repository
